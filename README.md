@@ -1,4 +1,4 @@
-# Bank Loan Analysis Dashboard (Power BI + SQL + Python)
+# Bank Loan Credit Risk & Compliance Analysis  (Power BI + SQL + Python)
 
 <img width="1753" height="927" alt="image" src="https://github.com/user-attachments/assets/c5dad10a-f6fc-4f89-b1e2-1c5245b8382f" />
 
